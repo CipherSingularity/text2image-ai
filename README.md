@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎨 Text to Image Generator
+# Text to Image Generator
 
 # Prompt to Pixels
 
@@ -10,7 +10,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Maintenance](https://img.shields.io/badge/Maintained-Yes-brightgreen.svg)
 
-**A powerful yet beginner-friendly web application that transforms natural language prompts into stunning images using AI**
+*A powerful yet beginner-friendly web application that transforms <br> natural language prompts into stunning images using AI*
 
 </div>
 
